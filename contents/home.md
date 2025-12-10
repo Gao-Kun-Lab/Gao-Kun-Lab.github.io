@@ -1,9 +1,11 @@
 [![Gao-Kun-Lab](https://img.shields.io/badge/Gao-Kun-Lab-github-blue?logo=github)](https://github.com/Gao-Kun-Lab)
 
-433, Automation Building (No.6 Building) at School of Optics and Photonics, Beijing Institute of Technology, Beijing.
-
-#### Email  
-* <code>gaokun@bit.edu.cn</code>
+#### 信息
+* 单位：北京理工大学，光电学院
+* 邮箱：gaokun@bit.edu.cn
+* 职称：教授、博士生导师
+* 职务：北京理工大学光电学院党委委员
+* 学科方向：光电探测、度量与对抗
 
 #### 教育经历
 * 1991.9-1995.7，浙江大学，工业电气自动化，工学学士
