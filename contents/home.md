@@ -1,0 +1,20 @@
+[![Gao-Kun-Lab](https://img.shields.io/badge/Gao-Kun-Lab-github-blue?logo=github)](https://github.com/Gao-Kun-Lab)
+
+433, Automation Building (No.6 Building) at School of Optics and Photonics, Beijing Institute of Technology, Beijing.
+
+#### Email  
+* <code>gaokun@bit.edu.cn</code>
+
+#### 教育经历
+* 1991.9-1995.7，浙江大学，工业电气自动化，工学学士
+* 1995.9-2002.3，浙江大学，测试计量技术及仪器，工学博士
+* 2002.5-2005.1，清华大学，精密仪器与机械学系，博士后
+* 2005.1-2005.6，北京理工大学信息学院，讲师
+* 2005.7-2021.6，北京理工大学光电学院，副教授
+* 2021.7-今，北京理工大学光电学院，教授
+
+#### 研究方向
+* 光电成像系统仿真与设计
+* 类脑计算与机器学习
+* 遥感图像处理与应用
+* 高光谱成像系统与应用
